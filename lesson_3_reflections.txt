@@ -1,1 +1,2 @@
-Lesson 3 reflections
+When would you want to use a remote repository rather than keeping all your work local?
+  Perhaps for travel or other convenience reasons.
